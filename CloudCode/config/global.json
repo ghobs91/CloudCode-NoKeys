@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Denarri": {
+            "applicationId": "APPLICATION ID GOES HERE", 
+            "masterKey": "MASTERKEY ID GOES HERE"
+        }, 
+        "_default": {
+            "link": "Denarri"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
