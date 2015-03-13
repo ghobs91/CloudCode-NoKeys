@@ -208,7 +208,6 @@ Parse.Cloud.define("eBayCategorySearch", function (request, response) {
               "Matching Category Id 2": matchingItemCategoryId2
               "Matching Category Name 1": matchingCategoryName1
               "Matching Category Name 2": matchingCategoryName2
-              }
             });
           } else {
             response.success({
